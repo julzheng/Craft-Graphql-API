@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1c523ee-cf8b-4110-b0ed-b0f5122e464b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YCHyE7xp8dNCslu1uSbeYVYqW9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1c523ee-cf8b-4110-b0ed-b0f5122e464b" name="Default Changelist" comment="" />
+      <created>1582439908491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582439908491</updated>
+      <workItem from="1582439909866" duration="7248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="498" height="448" key="SwitcherDM" timestamp="1582443861564">
+      <screen x="3000" y="498" width="1920" height="1080" />
+    </state>
+    <state width="498" height="448" key="SwitcherDM/3000.498.1920.1080/0.525.1920.915/1920.0.1080.1920@3000.498.1920.1080" timestamp="1582443861564" />
+  </component>
+</project>
